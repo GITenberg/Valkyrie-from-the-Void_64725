@@ -1,0 +1,26 @@
+_repo: Valkyrie-from-the-Void_64725
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, Basil
+    aliases:
+    - Ellerman, Gene
+    - Wells, Basil Eugene
+    birthdate: 1912
+    deathdate: 2003
+    gutenberg_agent_id: '33148'
+    url: http://www.gutenberg.org/2009/agents/33148
+    wikipedia: https://en.wikipedia.org/wiki/Basil_Wells
+description: ''
+gutenberg_issued: '2021-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Valkyrie from the Void
+url: http://www.gutenberg.org/ebooks/64725
