@@ -1,5 +1,8 @@
 _repo: Valkyrie-from-the-Void_64725
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64725-h/images/cover.jpg
 creator:
   author:
     agent_name: Wells, Basil
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33148
     wikipedia: https://en.wikipedia.org/wiki/Basil_Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64725#Valkyrie-from-the-Void
 gutenberg_issued: '2021-03-06'
 gutenberg_type: Text
 identifiers:
